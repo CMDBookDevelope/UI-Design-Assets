@@ -1,0 +1,6 @@
+# Ignore all .jsx files
+*.jsx
+
+# Ignore Adobe temporary cache files
+*.tmp
+~*.tmp

@@ -28,6 +28,7 @@ For UI Assets, such as free-provided icons by Apple, Microsoft, Google and other
             Segoe_MDL2_Assets_Icons.png
 ```
 
+**The font of titles or names of icons is (Saira medium)[https://fonts.google.com/specimen/Saira]**
 # Preview:
 **Apple iOS27 Icons**  
 ![Apple27](/Icons/Apple/SF_Symbols_iOS27.png "Apple iOS 27")  
